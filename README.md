@@ -1,4 +1,4 @@
-# Option-strategies-backtesting-in-Python
+# Option Greeks strategies & backtesting in Python
 This repository have pyhton codes used in book - 'Option Greeks Strategies Backtesting in Python' by Authour Anjana Gupta
 
 The book is divided into three parts -
